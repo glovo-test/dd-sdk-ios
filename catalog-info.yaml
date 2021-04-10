@@ -5,6 +5,10 @@ metadata:
   description: Datadog SDK for iOS
   annotations:
     github.com/project-slug: glovo-test/dd-sdk-ios
+  tags:
+    - mobile
+    - ios
+    - datadog
 spec:
   type: library
   lifecycle: experimental
