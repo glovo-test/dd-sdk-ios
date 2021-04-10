@@ -2,9 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: dd-sdk-ios
+  description: Datadog SDK for iOS
   annotations:
     github.com/project-slug: glovo-test/dd-sdk-ios
 spec:
-  type: other
-  lifecycle: unknown
+  type: library
+  lifecycle: experimental
   owner: ios
